@@ -49,26 +49,13 @@
  */
 class Solution {
 public:
-    int pathSum(TreeNode* root, int sum) {
+    int countNodes(TreeNode* root) 
+    {
         if(!root) return 0;
-        int ans = 0;
-        bool flag = true;
-        dfs(root, sum, ans, flag);
-        return ans;
-    }
-private:
-    void dfs(TreeNode* node, int sum, int& ans, bool flag){
-        if(!node) return;
-        if(sum == node->val){
-            ans++;
-        }
-        if(flag){
-            dfs(node->left, sum, ans, true);
-            dfs(node->right, sum, ans, true);
-        }
-        dfs(node->left, sum - node->val, ans, false);
-        dfs(node->right, sum - node->val, ans, false);
-        
+        int val = 1;
+        val += countNodes(root->left);
+        val += countNodes(root->right);
+        return val;
     }
 };
 // @lc code=end
