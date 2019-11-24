@@ -42,24 +42,21 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
         vector<int> curr;
-        for(int i = 0; i <= nums.size(); i++)
-            dfs(nums, i, 0, curr, ans);
-        
-        return ans;
+        vector<vector<int>> result;
+        dfs(nums, 0, curr, result);
+        return result;
     }
-    
+
 private:
-    void dfs(const vector<int>& nums, int n, int s, vector<int>& curr, vector<vector<int>>& ans){
-        if(curr.size()==n){
-            ans.push_back(curr);
-            return;
-        }
+    void dfs(const vector<int>& nums, int s, vector<int>& curr, vector<vector<int>>& result){
+        int n = nums.size();
+        result.push_back(curr);
+        if(curr.size() >= n) return;
         
-        for(int i = s; i < nums.size(); i++){
+        for(int i = s; i < n; i++){
             curr.push_back(nums[i]);
-            dfs(nums, n, i + 1, curr, ans);
+            dfs(nums, i + 1, curr, result);
             curr.pop_back();
         }
     }
