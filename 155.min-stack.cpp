@@ -15,7 +15,7 @@ public:
     
     void push(int x) {
         s1.push(x);
-        // if x is smaller or equal to the top of minstck, push it into s2
+        // if x is smaller or equal to the top of minstack, push it into s2
         if(s2.empty()||x <= s2.top()) s2.push(x);
     }
     
