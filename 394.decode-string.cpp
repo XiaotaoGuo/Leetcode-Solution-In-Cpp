@@ -87,5 +87,56 @@ public:
         }
         return ans;
     }
+// second method: use dfs
+// public:
+//     string decodeString(string s) {
+//         int idx = 0;
+//         string result = "";
+//         while(idx < s.length()){
+//             result += dfs(s, idx);
+//             idx++;
+//         }
+//         return result;
+//     }
+
+// private:
+//     string dfs(const string& s, int& idx){
+//         // if there is no repeat string - abcd
+//         string result = "";
+//         if(idx < s.length() && isalpha(s[idx])){
+//             while(idx < s.length() && isalpha(s[idx])){
+//                 result += s[idx];
+//                 idx++;
+//             }
+//             idx--;
+//             return result;
+//         }
+//         // there is repeat string - 2[cba...]
+//         int count = 0;
+//         while(idx < s.length() && isdigit(s[idx])){
+//             count *= 10;
+//             count += s[idx] - '0';
+//             idx++;
+//         }
+//         // skip for '['
+//         idx++;
+        
+//         string word = "";
+//         while(idx < s.length() && s[idx] != ']'){
+//             if(isdigit(s[idx])){
+//                 word += dfs(s, idx);
+//             }
+//             else{
+//                 word += s[idx];
+//             }
+//             idx++;
+//         }
+        
+//         for(int i = 0; i < count; i++){
+//             result += word;
+//         }
+        
+//         return result;
+//     }
 };
 

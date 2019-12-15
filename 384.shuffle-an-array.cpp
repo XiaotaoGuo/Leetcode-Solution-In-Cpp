@@ -58,6 +58,29 @@ public:
 
 private:
     vector<int> OriVec, NewVec;
+// another method
+// public:
+//   Solution(vector<int> nums) {
+//     nums_ = std::move(nums);
+//   }
+ 
+//   /** Resets the array to its original configuration and return it. */
+//   vector<int> reset() {
+//     return nums_;
+//   }
+ 
+//   /** Returns a random shuffling of the array. */
+//   vector<int> shuffle() {
+//     vector<int> output(nums_);
+//     const int n = nums_.size();
+//     for (int i = 0; i < n - 1; ++i) {      
+//       int j = rand() % (n - i) + i;
+//       std::swap(output[i], output[j]);
+//     }
+//     return output;
+//   }
+// private:
+//   vector<int> nums_;
 };
 
 /**

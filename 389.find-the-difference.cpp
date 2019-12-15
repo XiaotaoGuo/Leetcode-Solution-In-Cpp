@@ -34,20 +34,31 @@
  * 'e' is the letter that was added.
  * 
  */
-#include<string.h>
+#include<string>
 #include<stdio.h>
 using namespace std;
 
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int count[26];
-        memset(count, 0, 26*sizeof(int));
-        for(auto curr: t) count[curr-'a']++;
-        for(auto curr: s) count[curr - 'a']--;
-        for(int i = 0; i < 26; i++)
-            if(count[i]) return char('a' + i);
-        return 'z';
+        // int count[26];
+        // memset(count, 0, 26*sizeof(int));
+        // for(auto curr: t) count[curr-'a']++;
+        // for(auto curr: s) count[curr - 'a']--;
+        // for(int i = 0; i < 26; i++)
+        //     if(count[i]) return char('a' + i);
+        // return 'z';
+        int diff = 0;
+        for(auto& c: t){
+            diff += int(c);
+        }
+
+        for(auto&c : s){
+            diff -= int(c);
+        }
+
+        return char(diff);
+
     }
 };
 
