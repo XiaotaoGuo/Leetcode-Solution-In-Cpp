@@ -35,6 +35,7 @@ class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
         vector<vector<int>> matrix(n, vector<int>(n, 0));
+        // use count to indicate the next number to add
         int count = 1;
         generate(matrix, 0, 0, n - 1, n - 1, count);
         return matrix;
@@ -43,6 +44,7 @@ public:
 
 private:
     void generate(vector<vector<int>>& matrix, int top, int left, int bottom, int right, int& count){
+        // case 1: at least have two columns and two rows
         if(top < bottom && left < right){
             for(int i = left; i < right; i++){
                 matrix[top][i] = count;
@@ -61,18 +63,21 @@ private:
                 count++;
             }
         }
+        // case 2 : have only one columns and at least two row
         else if(top < bottom && left == right){
             for(int i = top; i <= bottom; i++){
                 matrix[i][left] = count;
                 count++;
             }
         }
+        // case 3 : have only one row and at least two columns
         else if(top == bottom && left < right){
             for(int i = left; i <= right; i++){
                 matrix[top][i] = count;
                 count++;
             }
         }
+        // case 4 : have only one element
         else if(top == bottom && left == right){
             matrix[top][left] = count;
             count++;

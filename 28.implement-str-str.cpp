@@ -46,7 +46,7 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-                if(!needle.length()) return 0;
+        if(!needle.length()) return 0;
         if(!haystack.length()) return -1;
         int len = needle.length();
         for(int i = 0; i < int(haystack.length()) - len + 1; i++){
