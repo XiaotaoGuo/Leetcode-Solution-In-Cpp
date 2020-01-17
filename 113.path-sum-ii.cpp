@@ -53,6 +53,11 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+#include<vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int sum) {
