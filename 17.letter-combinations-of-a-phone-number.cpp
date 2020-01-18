@@ -36,6 +36,13 @@
  */
 
 // @lc code=start
+
+#include <vector>
+#include <unordered_map>
+#include <string>
+
+using namespace std;
+
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
