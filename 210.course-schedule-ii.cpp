@@ -71,6 +71,7 @@ public:
             graph_[prerequisites[i][1]].push_back(prerequisites[i][0]); 
         }
         
+        // 0 - unvisited, 1 - visiting, 2 - visited  
         vector<int> status_(numCourses, 0);
         vector<int> result_;
         
@@ -85,10 +86,12 @@ public:
 
 private:
     bool dfs(vector<vector<int>>& graph, int idx, vector<int>& status_, vector<int>& result){
+        // no loops in this selection
         if(status_[idx] == 2){
             return false;
         }
         
+        // loops detected, no possible schedule
         if(status_[idx] == 1) return true;
         
         status_[idx] = 1;
