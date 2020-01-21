@@ -15,6 +15,7 @@ public:
     int uniquePathsIII(vector<vector<int>>& grid) {
         int todos = 1;
         int si = -1, sj = -1;
+        
         for(int i = 0; i < grid.size(); i++){
             for(int j = 0; j < grid[0].size(); j++){
                 if(grid[i][j] == 0) todos++;
