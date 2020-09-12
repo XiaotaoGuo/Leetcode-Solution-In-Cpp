@@ -41,6 +41,13 @@
 ||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/hard)||
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|[Solution](https://guoxiaotao.xyz/2020/08/30/leetcode-952/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/hard/952.LargestComponentSizeByCommonFactor.cpp)|
 
+### [Sort](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sort)
+
+|#|Problems|Solution|Code|
+|:---:|:---:|:---:|:---:|
+||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sort/medium)||
+|179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Solution](https://guoxiaotao.xyz/2020/09/12/leetcode-179/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/sort/medium/179.LargestNumber.cpp)|
+
 ### [Math](https://github.com/XiaotaoGuo/leetcode-record/tree/master/math)
 
 |#|Problems|Solution|Code|
