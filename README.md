@@ -30,23 +30,23 @@
 |#|Problems|Solution|Code|
 |:---:|:---:|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/easy)|||
-|14|[LongestCommonPrefix.cpp](https://leetcode.com/problems/longest-common-prefix)|[Solution](https://guoxiaotao.xyz/2020/09/04/leetcode-14/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/14.LongestCommonPrefix.cpp)|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution](https://guoxiaotao.xyz/2020/09/04/leetcode-14/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/14.LongestCommonPrefix.cpp)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://guoxiaotao.xyz/2020/09/05/leetcode-58/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/58.LengthOfLastWord.cpp)|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/125.ValidPalindrome.cpp)|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/383.RansomNote.cpp)|
-|520|[Detect Capital](https://leetcode.com/problems/detect-capital)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/520.DetectCapital.cpp)|
-|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/824.GoatLatin.cpp)|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://guoxiaotao.xyz/2020/08/03/leetcode-125/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/125.ValidPalindrome.cpp)|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Solution](https://guoxiaotao.xyz/2020/09/09/leetcode-383/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/383.RansomNote.cpp)|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Solution](https://guoxiaotao.xyz/2020/08/01/leetcode-520/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/520.DetectCapital.cpp)|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Solution](https://guoxiaotao.xyz/2020/08/19/leetcode-824/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/824.GoatLatin.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/medium)||
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/medium/6.ZigZagConversion.cpp)|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Solution](https://guoxiaotao.xyz/2020/07/31/leetcode-6/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/medium/6.ZigZagConversion.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/hard)||
-|952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/hard/952.LargestComponentSizeByCommonFactor.cpp)|
+|952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|[Solution](https://guoxiaotao.xyz/2020/08/30/leetcode-952/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/hard/952.LargestComponentSizeByCommonFactor.cpp)|
 
 ### [Math](https://github.com/XiaotaoGuo/leetcode-record/tree/master/math)
 
 |#|Problems|Solution|Code|
 |:---:|:---:|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/math/easy)|||
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|Solution|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/math/easy/171.ExcelSheetColumnNumber.cpp)|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Solution](https://guoxiaotao.xyz/2020/08/10/leetcode-171/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/math/easy/171.ExcelSheetColumnNumber.cpp)|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)|[Solution](https://guoxiaotao.xyz/2020/08/17/leetcode-1103/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/math/easy/1103.DistributeCandiesToPeople.cpp)|
 
 ### [Tree](https://github.com/XiaotaoGuo/leetcode-record/tree/master/tree)
