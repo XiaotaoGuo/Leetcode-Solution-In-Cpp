@@ -31,6 +31,7 @@
 |:---:|:---:|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/easy)|||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution](https://guoxiaotao.xyz//leetcode-14)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/14.LongestCommonPrefix.cpp)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](https://guoxiaotao.xyz/leetcode-38/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/38.CountAndSay.cpp)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://guoxiaotao.xyz//leetcode-58)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/58.LengthOfLastWord.cpp)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://guoxiaotao.xyz//leetcode-125)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/125.ValidPalindrome.cpp)|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Solution](https://guoxiaotao.xyz//leetcode-383)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/383.RansomNote.cpp)|
