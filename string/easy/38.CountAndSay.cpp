@@ -65,7 +65,7 @@
 class Solution {
 public:
     std::string countAndSay(int n) {
-        std::string current = std::to_string(1);
+        std::string current = "1";
         int step = 1;
         while (step < n) {
             step++;
