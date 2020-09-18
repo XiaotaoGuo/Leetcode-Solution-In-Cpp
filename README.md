@@ -28,7 +28,7 @@
 ### [String](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/easy)|||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Solution](https://xiaotaoguo.com/leetcode-14)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/14.LongestCommonPrefix.cpp)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](https://xiaotaoguo.com/leetcode-38/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/easy/38.CountAndSay.cpp)|
@@ -40,19 +40,20 @@
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/medium)||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Solution](https://xiaotaoguo.com/leetcode-6)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/medium/6.ZigZagConversion.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/string/hard)||
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](https://xiaotaoguo.com/leetcode-68/)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/hard/68.TextJustification.cpp)|
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|[Solution](https://xiaotaoguo.com/leetcode-952)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/string/hard/952.LargestComponentSizeByCommonFactor.cpp)|
 
 ### [Sort](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sort)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sort/medium)||
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Solution](https://xiaotaoguo.com/leetcode-179)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/sort/medium/179.LargestNumber.cpp)|
 
 ### [Math](https://github.com/XiaotaoGuo/leetcode-record/tree/master/math)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/math/easy)|||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](https://xiaotaoguo.com/leetcode-13)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/math/easy/13.RomanToInteger.cpp)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](https://xiaotaoguo.com/leetcode-168)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/math/easy/168.ExcelSheetColumnTitle.cpp)|
@@ -62,7 +63,7 @@
 ### [Tree](https://github.com/XiaotaoGuo/leetcode-record/tree/master/tree)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/tree/easy)|||
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](https://xiaotaoguo.com/leetcode-404)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/tree/easy/404.SumOfLeftLeaves.cpp)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[Solution](https://xiaotaoguo.com/leetcode-437)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/tree/easy/437.PathSumIii.cpp)|
@@ -72,14 +73,14 @@
 ### [Backtracking](https://github.com/XiaotaoGuo/leetcode-record/tree/master/backtracking)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/backtracking/medium)||
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination)|[Solution](https://xiaotaoguo.com/leetcode-1286)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/backtracking/medium/1286.IteratorForCombination.cpp)|
 
 ### [Dynamic-programming](https://github.com/XiaotaoGuo/leetcode-record/tree/master/dynamic-programming)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/dynamic-programming/medium)||
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[Solution](https://xiaotaoguo.com/leetcode-967)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/dynamic-programming/medium/967.NumbersWithSameConsecutiveDifferences.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/dynamic-programming/hard)||
@@ -89,14 +90,14 @@
 ### [LinkedList](https://github.com/XiaotaoGuo/leetcode-record/tree/master/linked-list)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/linked-list/medium)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/linked-list/medium/143.ReorderList.cpp)|
 
 ### [Binary-search](https://github.com/XiaotaoGuo/leetcode-record/tree/master/binary-search)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/binary-search/medium)||
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii)|[Solution](https://xiaotaoguo.com/leetcode-275)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/binary-search/medium/275.HIndexIi.cpp)|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval)|[Solution](https://xiaotaoguo.com/leetcode-436)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/binary-search/medium/436.FindRightInterval.cpp)|
@@ -105,28 +106,28 @@
 ### [Bit-manipulation](https://github.com/XiaotaoGuo/leetcode-record/tree/master/bit-manipulation)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/bit-manipulation/easy)|||
 |342|[Power of Four](https://leetcode.com/problems/power-of-four)|[Solution](https://xiaotaoguo.com/leetcode-342)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/bit-manipulation/easy/342.PowerOfFour.cpp)|
 
 ### [Design](https://github.com/XiaotaoGuo/leetcode-record/tree/master/design)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/design/medium)||
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)|[Solution](https://xiaotaoguo.com/leetcode-211)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/design/medium/211.AddAndSearchWordDataStructureDesign.cpp)|
 
 ### [Greedy](https://github.com/XiaotaoGuo/leetcode-record/tree/master/greedy)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/greedy/medium)||
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)|[Solution](https://xiaotaoguo.com/leetcode-435)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/greedy/medium/435.NonOverlappingIntervals.cpp)|
 
 ### [Hash-table](https://github.com/XiaotaoGuo/leetcode-record/tree/master/hash-table)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/hash-table/easy)|||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://xiaotaoguo.com/leetcode-205)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/hash-table/easy/205.IsomorphicStrings.cpp)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Solution](https://xiaotaoguo.com/leetcode-242)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/hash-table/easy/242.ValidAnagram.cpp)|
@@ -140,21 +141,21 @@
 ### [Queue](https://github.com/XiaotaoGuo/leetcode-record/tree/master/queue)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/queue/medium)||
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting)|[Solution](https://xiaotaoguo.com/leetcode-969)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/queue/medium/969.PancakeSorting.cpp)|
 
 ### [Stack](https://github.com/XiaotaoGuo/leetcode-record/tree/master/stack)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/stack/medium)||
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[Solution](https://xiaotaoguo.com/leetcode-983)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/stack/medium/983.MinimumCostForTickets.cpp)|
 
 ### [Two-pointers](https://github.com/XiaotaoGuo/leetcode-record/tree/master/two-pointers)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/two-pointers/easy)|||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://xiaotaoguo.com/leetcode-28)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/two-pointers/easy/28.ImplementStrStr.cpp)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://xiaotaoguo.com/leetcode-344)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/two-pointers/easy/344.ReverseString.cpp)|
@@ -163,6 +164,6 @@
 ### [Union-find](https://github.com/XiaotaoGuo/leetcode-record/tree/master/union-find)
 
 |#|Problems|Solution|Code|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 ||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/union-find/hard)||
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|[Solution](https://xiaotaoguo.com/leetcode-1032)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/union-find/hard/1032.StreamOfCharacters.cpp)|
