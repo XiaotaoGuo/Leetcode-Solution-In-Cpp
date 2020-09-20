@@ -161,6 +161,13 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://xiaotaoguo.com/leetcode-344)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/two-pointers/easy/344.ReverseString.cpp)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Solution](https://xiaotaoguo.com/leetcode-345)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/two-pointers/easy/345.ReverseVowelsOfAString.cpp)|
 
+### [Sliding-window](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sliding-window)
+
+|#|Problems|Solution|Code|
+|:---:|:---|:---:|:---:|
+||[**Hard**](https://github.com/XiaotaoGuo/leetcode-record/tree/master/sliding-window/hard)|||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Solution](https://xiaotaoguo.com/leetcode-76)|[code](https://github.com/XiaotaoGuo/leetcode-record/blob/master/sliding-window/hard/76.MinimumWindowSubstring.cpp)|
+
 ### [Union-find](https://github.com/XiaotaoGuo/leetcode-record/tree/master/union-find)
 
 |#|Problems|Solution|Code|
