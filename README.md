@@ -1,4 +1,6 @@
-# Leetcode-C++-Solution
+# Leetcode-Solution-In-C++
+
+[![time tracker](https://wakatime.com/badge/github/XiaotaoGuo/Leetcode-Solution-In-Cpp.svg)](https://wakatime.com/badge/github/XiaotaoGuo/Leetcode-Solution-In-Cpp) ![Hex.pm](https://img.shields.io/hexpm/l/plug?color=ff0000)
 
 这是我的 LeetCode 刷题记录。刷题顺序大部分根据 [*Leetcode 分类顺序表*](https://cspiration.com/leetcodeClassification) 进行，目前所有题目用 C++ 求解并有对应博文记录解题思路。方法不一定最优，欢迎补充～
 
