@@ -167,7 +167,10 @@
 
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
+||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/sliding-window/medium)|||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://xiaotaoguo.com/leetcode-3)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/sliding-window/medium/3.LongestSubstringWithoutRepeatingCharacters.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/sliding-window/hard)|||
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Solution](https://xiaotaoguo.com/leetcode-30)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/sliding-window/hard/30.SubstringWithConcatenationOfAllWords.cpp)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)|[Solution](https://xiaotaoguo.com/leetcode-76)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/sliding-window/hard/76.MinimumWindowSubstring.cpp)|
 
 ### [Union-find](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/union-find)
