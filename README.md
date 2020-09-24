@@ -84,6 +84,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/medium)||
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Solution](https://xiaotaoguo.com/leetcode-5)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/5.LongestPalindromicSubstring.cpp)|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[Solution](https://xiaotaoguo.com/leetcode-967)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/967.NumbersWithSameConsecutiveDifferences.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/hard)||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string)|[Solution](https://xiaotaoguo.com/leetcode-87)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/hard/87.ScrambleString.cpp)|
