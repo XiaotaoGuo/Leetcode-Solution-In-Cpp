@@ -57,6 +57,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/easy)|||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Solution](https://xiaotaoguo.com/leetcode-9)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/9.PalindromeNumber.cpp)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](https://xiaotaoguo.com/leetcode-13)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/13.RomanToInteger.cpp)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](https://xiaotaoguo.com/leetcode-168)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/168.ExcelSheetColumnTitle.cpp)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Solution](https://xiaotaoguo.com/leetcode-171)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/171.ExcelSheetColumnNumber.cpp)|
