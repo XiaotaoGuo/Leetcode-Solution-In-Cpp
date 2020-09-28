@@ -41,19 +41,19 @@
 class Solution {
 public:
     int longestValidParentheses(std::string s) {
-        std::stack<int> invalid_index;
-        invalid_index.push(-1);     // push a dummy index
+        std::stack<int> index;
+        int start = 0;
         int maxLen = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s[i] == '(') {
-                invalid_index.push(i);  // need to find a match otherwise invalid
+                index.push(i);  // need to find a match otherwise invalid
             }
             else {
-                invalid_index.pop();
-                if (!invalid_index.empty()) {
-                    maxLen = std::max(maxLen, i - invalid_index.top()); // update result
+                if (!index.empty()) {
+                    index.pop();
+                    maxLen = index.empty() ? std::max(maxLen, i - start + 1) : std::max(maxLen, i - index.top());
                 } else {
-                    invalid_index.push(i);
+                    start = i + 1;      // update new valid begin pos
                 }
             }
         }    
