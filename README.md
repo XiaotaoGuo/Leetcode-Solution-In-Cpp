@@ -84,6 +84,8 @@
 
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
+||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/easy)||
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution](https://xiaotaoguo.com/leetcode-392)|[code](hhttps://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/easy/392.IsSubsequence.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/medium)||
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Solution](https://xiaotaoguo.com/leetcode-5)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/5.LongestPalindromicSubstring.cpp)|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|[Solution](https://xiaotaoguo.com/leetcode-967)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/967.NumbersWithSameConsecutiveDifferences.cpp)|
