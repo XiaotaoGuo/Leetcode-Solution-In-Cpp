@@ -144,6 +144,8 @@
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset)|[Solution](https://xiaotaoguo.com/leetcode-705)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/hash-table/easy/705.DesignHashSet.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/hash-table/medium)||
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|[Solution](https://xiaotaoguo.com/leetcode-994)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/hash-table/medium/994.RottingOranges.cpp)|
+||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/hash-table/hard)||
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|[Solution](https://xiaotaoguo.com/leetcode-149)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/hash-table/hard/149.MaxPointsOnALine.cpp)|
 
 ### [Queue](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/queue)
 
