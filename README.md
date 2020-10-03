@@ -13,6 +13,7 @@
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/array/easy)|||
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|Solution|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/1.TwoSum.cpp)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://xiaotaoguo.com/leetcode-26)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/26.RemoveDuplicatesFromSortedArray.cpp)|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://xiaotaoguo.com/leetcode-66)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/66.PlusOne.cpp)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Solution](https://xiaotaoguo.com/leetcode-119)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/119.PascalsTriangleIi.cpp)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Solution](https://xiaotaoguo.com/leetcode-121)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/121.BestTimeToBuyAndSellStock.cpp)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Solution](https://xiaotaoguo.com/leetcode-122)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/easy/122.BestTimeToBuyAndSellStockIi.cpp)|
