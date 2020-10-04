@@ -1,0 +1,4 @@
+[submodule "submodules/clang-format"]
+	path = submodules/clang-format
+	url = https://github.com/XiaotaoGuo/clang-format-settings.git
+	branch = main
