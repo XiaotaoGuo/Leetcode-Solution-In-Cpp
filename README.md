@@ -60,11 +60,17 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/easy)|||
+|7|[Palindrome Number](https://leetcode.com/problems/reverse-integer)|[Solution](https://xiaotaoguo.com/leetcode-7)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/7.ReverseInteger.cpp)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Solution](https://xiaotaoguo.com/leetcode-9)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/9.PalindromeNumber.cpp)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](https://xiaotaoguo.com/leetcode-13)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/13.RomanToInteger.cpp)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](https://xiaotaoguo.com/leetcode-168)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/168.ExcelSheetColumnTitle.cpp)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Solution](https://xiaotaoguo.com/leetcode-171)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/171.ExcelSheetColumnNumber.cpp)|
+|258|[Add Digits](https://leetcode.com/problems/add-digits)|[Solution](https://xiaotaoguo.com/leetcode-258)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/258.AddDigits.cpp)|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)|[Solution](https://xiaotaoguo.com/leetcode-1103)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/1103.DistributeCandiesToPeople.cpp)|
+||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/medium)|||
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Solution](https://xiaotaoguo.com/leetcode-12)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/medium/12.IntegerToRoman.cpp)|
+|[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/hard)|||
+|65|[Valid Number](https://leetcode.com/problems/valid-number)|[Solution](https://xiaotaoguo.com/leetcode-65)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/hard/65.ValidNumber.cpp)|
 
 ### [Tree](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/tree)
 
