@@ -82,6 +82,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](https://xiaotaoguo.com/leetcode-404)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/404.SumOfLeftLeaves.cpp)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[Solution](https://xiaotaoguo.com/leetcode-437)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/437.PathSumIii.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/tree/medium)||
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://xiaotaoguo.com/leetcode-144)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/medium/144.BinaryTreePreorderTraversal.cpp)|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)|[Solution](https://xiaotaoguo.com/leetcode-450)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/medium/450.DeleteNodeInABst.cpp)|
 
 ### [Backtracking](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/backtracking)
