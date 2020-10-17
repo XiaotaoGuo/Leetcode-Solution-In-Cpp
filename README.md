@@ -82,6 +82,7 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Solution](https://xiaotaoguo.com/leetcode-100)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/100.SameTree.cpp)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Solution](https://xiaotaoguo.com/leetcode-101)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/101.SymmetricTree.cpp)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Solution](https://xiaotaoguo.com/leetcode-226)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/226.InvertBinaryTree.cpp)|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Solution](https://xiaotaoguo.com/leetcode-257)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/257.BinaryTreePaths.cpp)|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Solution](https://xiaotaoguo.com/leetcode-404)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/404.SumOfLeftLeaves.cpp)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[Solution](https://xiaotaoguo.com/leetcode-437)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/437.PathSumIii.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/tree/medium)||
