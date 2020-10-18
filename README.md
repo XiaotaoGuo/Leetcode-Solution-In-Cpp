@@ -211,6 +211,6 @@
 
 <pre lang = "C++">
 <code>
-int a = 1;
+int <b>a</b> = 1;
 </code>
 </pre>
