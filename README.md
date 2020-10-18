@@ -209,8 +209,8 @@
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/union-find/hard)||
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|[Solution](https://xiaotaoguo.com/leetcode-1032)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/union-find/hard/1032.StreamOfCharacters.cpp)|
 
-<pre>
-<code class="language-c">
+<pre lang = "C++">
+<code>
 int a = 1;
 </code>
 </pre>
