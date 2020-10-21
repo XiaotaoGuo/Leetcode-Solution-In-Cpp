@@ -77,7 +77,7 @@ public:
             while (!q.empty()) {
                 TreeNode* node = q.front();
                 q.pop();
-                if (!q->left && !q->right) {
+                if (!node->left && !node->right) {
                     // we found the first leaf node, it must in
                     // min depth
                     return depth;
