@@ -1,47 +1,37 @@
 /*
- * @lc app=leetcode id=111 lang=cpp
+ * @lc app=leetcode id=104 lang=cpp
  *
- * [111] Minimum Depth of Binary Tree
+ * [104] Maximum Depth of Binary Tree
  *
- * https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+ * https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
  *
  * algorithms
- * Easy (37.62%)
- * Likes:    1751
- * Dislikes: 759
- * Total Accepted:    454K
- * Total Submissions: 1.2M
+ * Easy (66.50%)
+ * Likes:    3034
+ * Dislikes: 82
+ * Total Accepted:    927.2K
+ * Total Submissions: 1.4M
  * Testcase Example:  '[3,9,20,null,null,15,7]'
  *
- * Given a binary tree, find its minimum depth.
+ * Given a binary tree, find its maximum depth.
  *
- * The minimum depth is the number of nodes along the shortest path from the
- * root node down to the nearest leaf node.
+ * The maximum depth is the number of nodes along the longest path from the
+ * root node down to the farthest leaf node.
  *
  * Note: A leaf is a node with no children.
  *
+ * Example:
  *
- * Example 1:
- *
- *
- * Input: root = [3,9,20,null,null,15,7]
- * Output: 2
+ * Given binary tree [3,9,20,null,null,15,7],
  *
  *
- * Example 2:
+ * ⁠   3
+ * ⁠  / \
+ * ⁠ 9  20
+ * ⁠   /  \
+ * ⁠  15   7
  *
- *
- * Input: root = [2,null,3,null,4,null,5,null,6]
- * Output: 5
- *
- *
- *
- * Constraints:
- *
- *
- * The number of nodes in the tree is in the range [0, 10^4].
- * -1000 <= Node.val <= 1000
- *
+ * return its depth = 3.
  *
  */
 
@@ -63,12 +53,13 @@
 #include <algorithm>
 #include <queue>
 
-#define BFS 1
+#define BFS 0
+
 class Solution {
 #if BFS
-    // method 1 : iteratively
 public:
-    int minDepth(TreeNode* root) {
+    // method 1 : iteratively
+    int maxDepth(TreeNode* root) {
         std::queue<TreeNode*> q;
         if (!root) return 0;
         q.push(root);
@@ -79,11 +70,6 @@ public:
             while (!q.empty()) {
                 TreeNode* node = q.front();
                 q.pop();
-                if (!node->left && !node->right) {
-                    // we found the first leaf node, it must in
-                    // min depth
-                    return depth;
-                }
                 if (node->left) next_level.push(node->left);
                 if (node->right) next_level.push(node->right);
             }
@@ -95,25 +81,26 @@ public:
 #else
     // method 2 : recursively
 public:
-    int minDepth(TreeNode* root) {
+    int maxDepth(TreeNode* root) {
         if (!root) return 0;
-        int min_depth = INT_MAX;
-        dfs(root, 0, min_depth);
-        return min_depth;
+        int max_depth = 0;
+        dfs(root, 0, max_depth);
+
+        return max_depth;
     }
 
 private:
-    void dfs(TreeNode* node, int current_depth, int& min_depth) {
-        if (!node || current_depth >= min_depth) {
+    void dfs(TreeNode* node, int current_depth, int& max_depth) {
+        if (!node) {
             return;
         }
         current_depth++;
         if (!node->left && !node->right) {
-            min_depth = current_depth;
+            max_depth = std::max(current_depth, max_depth);
         }
 
-        dfs(node->left, current_depth, min_depth);
-        dfs(node->right, current_depth, min_depth);
+        dfs(node->left, current_depth, max_depth);
+        dfs(node->right, current_depth, max_depth);
     }
 #endif
 };
