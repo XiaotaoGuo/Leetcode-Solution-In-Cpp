@@ -16,7 +16,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
+#include <unordered_map>
 class Solution {
 public:
     int rob(TreeNode* root) {
@@ -33,7 +33,7 @@ public:
         }
                             
         int prev_sum = rob(root->left) + rob(root->right);
-        hmap[root] = max(curr_sum, prev_sum);
+        hmap[root] = std::max(curr_sum, prev_sum);
         return hmap[root];
     }
 
