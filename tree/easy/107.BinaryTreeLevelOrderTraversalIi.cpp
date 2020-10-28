@@ -58,34 +58,31 @@
 
 class Solution {
 public:
-  std::vector<std::vector<int>> levelOrderBottom(TreeNode *root) {
-    std::vector<std::vector<int>> result;
-    if (root == nullptr)
-      return result;
+    std::vector<std::vector<int>> levelOrderBottom(TreeNode *root) {
+        std::vector<std::vector<int>> result;
+        if (root == nullptr) return result;
 
-    std::queue<TreeNode *> q;
-    q.psuh(root);
-    while (!q.empty()) {
-      std::queue<TreeNode *> next_q;
-      std::vector<int> level;
-      while (!q.empty()) {
-        TreeNode *node = q.front();
-        q.pop();
+        std::queue<TreeNode *> q;
+        q.psuh(root);
+        while (!q.empty()) {
+            std::queue<TreeNode *> next_q;
+            std::vector<int> level;
+            while (!q.empty()) {
+                TreeNode *node = q.front();
+                q.pop();
 
-        level.push_back(node->val);
-        if (node->left)
-          next_q.push(node->left);
-        if (node->right)
-          next_q.push(node->right);
-      }
-      result.push_back(level);
-      level.clear();
-      std::swap(q, next_q);
+                level.push_back(node->val);
+                if (node->left) next_q.push(node->left);
+                if (node->right) next_q.push(node->right);
+            }
+            result.push_back(level);
+            level.clear();
+            std::swap(q, next_q);
+        }
+
+        std::reverse(result.begin(), result.end());
+
+        return result;
     }
-
-    std::reverse(result.begin(), result.end());
-
-    return result;
-  }
 };
 // @lc code=end
