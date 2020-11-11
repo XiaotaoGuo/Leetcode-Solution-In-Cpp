@@ -80,11 +80,11 @@ private:
         if (root == nullptr) {
             return 0;
         }
-        int val = kthSmallest(root->left, k);
+        int val = dfs(root->left, k);
         if (k == 0) return val;
         k--;
         if (k == 0) return root->val;
-        return kthSmallest(root->right, k);
+        return dfs(root->right, k);
     }
 };
 // @lc code=end
