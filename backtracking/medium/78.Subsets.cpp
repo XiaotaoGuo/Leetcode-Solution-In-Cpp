@@ -52,7 +52,6 @@ public:
         std::vector<int> subset;
         std::vector<std::vector<int>> result;
 
-        std::sort(nums.begin(), nums.end());
         dfs(nums, 0, subset, result);
         return result;
     }
