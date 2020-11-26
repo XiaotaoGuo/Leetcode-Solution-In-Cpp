@@ -119,6 +119,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/backtracking/medium)||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Solution](https://xiaotaoguo.com/leetcode-39)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/39.CombinationSum.cpp)|
 |77|[Combinations](https://leetcode.com/problems/combinations)|[Solution](https://xiaotaoguo.com/leetcode-77)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/77.Combinations.cpp)|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Solution](https://xiaotaoguo.com/leetcode-78)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/78.Subsets.cpp)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)|[Solution](https://xiaotaoguo.com/leetcode-90)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/90.SubsetsIi.cpp)|
