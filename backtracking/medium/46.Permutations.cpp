@@ -52,7 +52,7 @@ public:
     }
 
 private:
-    void iterate(const std::vector<int>& nums, std::vector<int> perm, std::vector<std::vector<int>>& result, std::vector<bool> visisted) {
+    void iterate(const std::vector<int>& nums, std::vector<int>& perm, std::vector<std::vector<int>>& result, std::vector<bool>& visisted) {
         if (perm.size() == nums.size()) {
             result.push_back(perm);
             return;
