@@ -73,6 +73,7 @@
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/medium)|||
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Solution](https://xiaotaoguo.com/leetcode-12)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/medium/12.IntegerToRoman.cpp)|
 |[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/hard)|||
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Solution](https://xiaotaoguo.com/leetcode-60)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/hard/60.PermutationSequence.cpp)|
 |65|[Valid Number](https://leetcode.com/problems/valid-number)|[Solution](https://xiaotaoguo.com/leetcode-65)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/hard/65.ValidNumber.cpp)|
 
 ### [Tree](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/tree)
