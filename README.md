@@ -121,6 +121,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/backtracking/medium)||
+|17|[Letter Combinations of a Phone Number](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/17.LetterCombinationsOfAPhoneNumber.cpp)|[Solution](https://xiaotaoguo.com/leetcode-17)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/17.LetterCombinationsOfAPhoneNumber.cpp)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Solution](https://xiaotaoguo.com/leetcode-39)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/39.CombinationSum.cpp)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Solution](https://xiaotaoguo.com/leetcode-40)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/40.CombinationSumIi.cpp)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Solution](https://xiaotaoguo.com/leetcode-46)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/46.Permutations.cpp)|
