@@ -134,6 +134,7 @@
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination)|[Solution](https://xiaotaoguo.com/leetcode-1286)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/1286.IteratorForCombination.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard)||
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators)|[Solution](https://xiaotaoguo.com/leetcode-282)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/282.ExpressionAddOperators.cpp)|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](https://xiaotaoguo.com/leetcode-140)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/140.WordBreakIi.cpp)|
 
 ### [Dynamic-programming](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming)
 

@@ -98,7 +98,6 @@ private:
 
     void findWords(const std::string& s, int idx,
                    std::string& current_sentence) {
-        // cout << current_word << "\n" << current_sentence << endl;
         if (idx == s.length()) {
             m_result.push_back(current_sentence);
             return;
@@ -108,7 +107,6 @@ private:
         for (int i = idx; i < s.length(); i++) {
             // expand word
             current_word += s[i];
-            // cout << "expand word ->" << current_word << endl;
             // use it as seperate word and find next word
             if (m_dict.count(current_word) != 0) {
                 if (idx != 0) current_sentence += " ";
