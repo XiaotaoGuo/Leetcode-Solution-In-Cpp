@@ -85,7 +85,7 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Solution](https://xiaotaoguo.com/leetcode-101)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/101.SymmetricTree.cpp)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](https://xiaotaoguo.com/leetcode-104)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/104.MaximumDepthOfBinaryTree.cpp)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Solution](https://xiaotaoguo.com/leetcode-107)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/107.BinaryTreeLevelOrderTraversalIi.cpp)|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Solution](https://xiaotaoguo.com/leetcode-108)|[code](hhttps://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/108.ConvertSortedArrayToBinarySearchTree.cpp)|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Solution](https://xiaotaoguo.com/leetcode-108)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/108.ConvertSortedArrayToBinarySearchTree.cpp)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Solution](https://xiaotaoguo.com/leetcode-110)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/110.BalancedBinaryTree.cpp)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Solution](https://xiaotaoguo.com/leetcode-111)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/111.MinimumDepthOfBinaryTree.cpp)|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Solution](https://xiaotaoguo.com/leetcode-112)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/tree/easy/112.PathSum.cpp)|
@@ -141,7 +141,8 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/easy)||
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution](https://xiaotaoguo.com/leetcode-392)|[code](hhttps://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/easy/392.IsSubsequence.cpp)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://xiaotaoguo.com/leetcode-70)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/easy/70.ClimbingStairs.cpp)|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution](https://xiaotaoguo.com/leetcode-392)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/easy/392.IsSubsequence.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/dynamic-programming/medium)||
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Solution](https://xiaotaoguo.com/leetcode-5)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/5.LongestPalindromicSubstring.cpp)|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)|[Solution](https://xiaotaoguo.com/leetcode-377)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/medium/377.CombinationSumIv.cpp)|
