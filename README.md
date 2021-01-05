@@ -161,6 +161,8 @@
 
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
+||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/easy)||
+|206|[Reorder List](https://leetcode.com/problems/reverse-linked-list)|[Solution](https://xiaotaoguo.com/leetcode-206)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/206.ReverseLinkedList.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/medium)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/143.ReorderList.cpp)|
 
