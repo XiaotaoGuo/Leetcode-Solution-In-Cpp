@@ -156,12 +156,14 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Solution](https://xiaotaoguo.com/leetcode-32)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/hard/32.LongestValidParentheses.cpp)|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string)|[Solution](https://xiaotaoguo.com/leetcode-87)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/hard/87.ScrambleString.cpp)|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|[Solution](https://xiaotaoguo.com/leetcode-188)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/hard/188.BestTimeToBuyAndSellStockIv.cpp)|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons)|[Solution](https://xiaotaoguo.com/leetcode-312)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/dynamic-programming/hard/312.BurstBalloons.cpp)|
 
 ### [LinkedList](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list)
 
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/easy)||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Solution](https://xiaotaoguo.com/leetcode-141)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/141.LinkedListCycle.cpp)|
 |206|[Reorder List](https://leetcode.com/problems/reverse-linked-list)|[Solution](https://xiaotaoguo.com/leetcode-206)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/206.ReverseLinkedList.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/medium)||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/143.ReorderList.cpp)|
