@@ -166,6 +166,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/easy)||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](https://xiaotaoguo.com/leetcode-83)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/83.RemoveDuplicatesFromSortedList.cpp)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Solution](https://xiaotaoguo.com/leetcode-141)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/141.LinkedListCycle.cpp)|
 |206|[Reorder List](https://leetcode.com/problems/reverse-linked-list)|[Solution](https://xiaotaoguo.com/leetcode-206)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/206.ReverseLinkedList.cpp)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Solution](https://xiaotaoguo.com/leetcode-237)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/237.DeleteNodeInALinkedList.cpp)|
