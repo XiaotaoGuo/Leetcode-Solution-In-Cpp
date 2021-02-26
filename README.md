@@ -166,6 +166,7 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/easy)||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Solution](https://xiaotaoguo.com/leetcode-21)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/21.MergeTwoSortedLists.cpp)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](https://xiaotaoguo.com/leetcode-83)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/83.RemoveDuplicatesFromSortedList.cpp)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Solution](https://xiaotaoguo.com/leetcode-141)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/141.LinkedListCycle.cpp)|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Solution](https://xiaotaoguo.com/leetcode-160)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/easy/160.IntersectionOfTwoLinkedLists.cpp)|
