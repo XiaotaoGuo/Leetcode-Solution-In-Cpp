@@ -181,7 +181,7 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](https://xiaotaoguo.com/leetcode-24)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/82.RemoveDuplicatesFromSortedListIi.cpp)|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Solution](https://xiaotaoguo.com/leetcode-92)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/92.ReverseLinkedListIi.cpp)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/143.ReorderList.cpp)|
-|328|[Odd Even Linked List](Odd Even Linked List)|[Solution](https://xiaotaoguo.com/leetcode-328)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/328.OddEvenLinkedList.cpp)|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](https://xiaotaoguo.com/leetcode-328)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/328.OddEvenLinkedList.cpp)|
 
 ### [Binary-search](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search)
 
