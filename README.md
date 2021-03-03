@@ -180,6 +180,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Solution](https://xiaotaoguo.com/leetcode-24)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/24.SwapNodesInPairs.cpp)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Solution](https://xiaotaoguo.com/leetcode-24)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/82.RemoveDuplicatesFromSortedListIi.cpp)|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Solution](https://xiaotaoguo.com/leetcode-92)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/92.ReverseLinkedListIi.cpp)|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[Solution](https://xiaotaoguo.com/leetcode-142)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/142.LinkedListCycleIi.cpp)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/143.ReorderList.cpp)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](https://xiaotaoguo.com/leetcode-328)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/328.OddEvenLinkedList.cpp)|
 
