@@ -14,22 +14,22 @@
  * Testcase Example:  '[1,2]'
  *
  * Given a singly linked list, determine if it is a palindrome.
- * 
+ *
  * Example 1:
- * 
- * 
+ *
+ *
  * Input: 1->2
  * Output: false
- * 
+ *
  * Example 2:
- * 
- * 
+ *
+ *
  * Input: 1->2->2->1
  * Output: true
- * 
+ *
  * Follow up:
  * Could you do it in O(n) time and O(1) space?
- * 
+ *
  */
 
 // @lc code=start
@@ -45,12 +45,11 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-
+    bool isPalindrome(ListNode *head) {
         // compute the length of linked list
         int n = 0;
         ListNode *curr = head;
-        while(curr) {
+        while (curr) {
             curr = curr->next;
             n++;
         }
@@ -69,7 +68,7 @@ public:
         ListNode *prev = nullptr;
         ListNode *next = curr->next;
         curr->next = prev;
-        while(next) {
+        while (next) {
             prev = curr;
             curr = next;
             next = curr->next;
@@ -77,7 +76,7 @@ public:
         }
 
         // compare the first half & reversed second half
-        while(curr && head) {
+        while (curr && head) {
             if (curr->val != head->val) return false;
             curr = curr->next;
             head = head->next;
@@ -87,4 +86,3 @@ public:
     }
 };
 // @lc code=end
-

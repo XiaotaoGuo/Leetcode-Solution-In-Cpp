@@ -14,16 +14,16 @@
  * Testcase Example:  '[1,2,3,4,5]\n2\n4'
  *
  * Reverse a linked list from position m to n. Do it in one-pass.
- * 
+ *
  * Note: 1 ≤ m ≤ n ≤ length of list.
- * 
+ *
  * Example:
- * 
- * 
+ *
+ *
  * Input: 1->2->3->4->5->NULL, m = 2, n = 4
  * Output: 1->4->3->2->5->NULL
- * 
- * 
+ *
+ *
  */
 
 // @lc code=start
@@ -46,15 +46,15 @@ public:
         ListNode *curr = dummy, *prev, *next;
         int step = 1;
 
-        // move curr to the node just before the mth node, mark it as tail for the first part
-        // and mth node should be tail for second part
+        // move curr to the node just before the mth node, mark it as tail for
+        // the first part and mth node should be tail for second part
         while (step < m) {
             curr = curr->next;
             step++;
         }
         first_tail = curr;
         curr = curr->next;
-        
+
         second_tail = curr;
         prev = curr;
         curr = curr->next;
@@ -69,8 +69,6 @@ public:
         second_tail->next = curr;
 
         return dummy->next;
-
     }
 };
 // @lc code=end
-

@@ -14,19 +14,19 @@
  * Testcase Example:  '[1,2,3,4,5]'
  *
  * Reverse a singly linked list.
- * 
+ *
  * Example:
- * 
- * 
+ *
+ *
  * Input: 1->2->3->4->5->NULL
  * Output: 5->4->3->2->1->NULL
- * 
- * 
+ *
+ *
  * Follow up:
- * 
+ *
  * A linked list can be reversed either iteratively or recursively. Could you
  * implement both?
- * 
+ *
  */
 
 // @lc code=start
@@ -43,9 +43,7 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-
-        method #1: iteratively
-        ListNode* prev = nullptr;
+        method #1 : iteratively ListNode* prev = nullptr;
         ListNode* curr = head;
         while (curr != nullptr) {
             ListNode* temp = curr->next;
@@ -55,35 +53,34 @@ public:
         }
 
         return prev;
+    };
 
-};
+    // method #2: recursively
+    // class Solution {
+    // public:
+    //     ListNode* reverseList(ListNode* head) {
 
-// method #2: recursively
-// class Solution {
-// public:
-//     ListNode* reverseList(ListNode* head) {
-        
-//         if (head == nullptr) return head;
+    //         if (head == nullptr) return head;
 
-//         ListNode* new_head = new ListNode();
-//         reverseListRecursivly(head, new_head);
-//         head->next = nullptr;
+    //         ListNode* new_head = new ListNode();
+    //         reverseListRecursivly(head, new_head);
+    //         head->next = nullptr;
 
-//         return new_head;
-//     }
+    //         return new_head;
+    //     }
 
-// private:
-//     ListNode* reverseListRecursivly(ListNode* head, ListNode*& new_head) {
-        
-//         if (head == nullptr || head->next == nullptr) {
-//             new_head = head;
-//             return head;
-//         }
-        
-//         reverseListRecursivly(head->next, new_head)->next = head;
+    // private:
+    //     ListNode* reverseListRecursivly(ListNode* head, ListNode*& new_head)
+    //     {
 
-//         return head;
-//     }
-// };
-// @lc code=end
+    //         if (head == nullptr || head->next == nullptr) {
+    //             new_head = head;
+    //             return head;
+    //         }
 
+    //         reverseListRecursivly(head->next, new_head)->next = head;
+
+    //         return head;
+    //     }
+    // };
+    // @lc code=end
