@@ -184,6 +184,8 @@
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://xiaotaoguo.com/leetcode-143)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/143.ReorderList.cpp)|
 |148|[Sort List](https://leetcode.com/problems/sort-list)|[Solution](https://xiaotaoguo.com/leetcode-148)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/148.SortList.cpp)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](https://xiaotaoguo.com/leetcode-328)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/medium/328.OddEvenLinkedList.cpp)|
+||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/linked-list/hard)||
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Solution](https://xiaotaoguo.com/leetcode-25)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/linked-list/hard/25.ReverseNodesInKGroup.cpp)|
 
 ### [Binary-search](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search)
 
