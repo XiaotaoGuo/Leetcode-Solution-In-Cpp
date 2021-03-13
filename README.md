@@ -198,6 +198,7 @@
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/easy)||
 |278|[First Bad Version](https://leetcode.com/problems/h-index-ii)|[Solution](https://leetcode.com/problems/first-bad-version/)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/easy/278.FirstBadVersion.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/medium)||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://xiaotaoguo.com/leetcode-33)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/33.SearchInRotatedSortedArray.cpp)|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii)|[Solution](https://xiaotaoguo.com/leetcode-275)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/275.HIndexIi.cpp)|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval)|[Solution](https://xiaotaoguo.com/leetcode-436)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/436.FindRightInterval.cpp)|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)|[Solution](https://xiaotaoguo.com/leetcode-497)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/497.RandomPointInNonOverlappingRectangles.cpp)|
