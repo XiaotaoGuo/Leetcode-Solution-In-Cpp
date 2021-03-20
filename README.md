@@ -196,7 +196,8 @@
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/easy)||
-|278|[First Bad Version](https://leetcode.com/problems/h-index-ii)|[Solution](https://leetcode.com/problems/first-bad-version/)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/easy/278.FirstBadVersion.cpp)|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](https://xiaotaoguo.com/leetcode-278)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/easy/278.FirstBadVersion.cpp)|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Solution](https://xiaotaoguo.com/leetcode-349)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/easy/349.IntersectionOfTwoArrays.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/medium)||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://xiaotaoguo.com/leetcode-33)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/33.SearchInRotatedSortedArray.cpp)|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Solution](https://xiaotaoguo.com/leetcode-34)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/34.FindFirstAndLastPositionOfElementInSortedArray.cpp)|
