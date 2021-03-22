@@ -209,6 +209,7 @@
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)|[Solution](https://xiaotaoguo.com/leetcode-497)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/medium/497.RandomPointInNonOverlappingRectangles.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/hard)||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Solution](https://xiaotaoguo.com/leetcode-154)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/hard/154.FindMinimumInRotatedSortedArrayIi.cpp)|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|[Solution](https://xiaotaoguo.com/leetcode-315)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/hard/315.CountOfSmallerNumbersAfterSelf.cpp)|
 
 ### [Bit-manipulation](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/bit-manipulation)
 
