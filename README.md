@@ -211,6 +211,7 @@
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/binary-search/hard)||
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Solution](https://xiaotaoguo.com/leetcode-154)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/hard/154.FindMinimumInRotatedSortedArrayIi.cpp)|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|[Solution](https://xiaotaoguo.com/leetcode-315)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/hard/315.CountOfSmallerNumbersAfterSelf.cpp)|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|[Solution](https://xiaotaoguo.com/leetcode-354)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/binary-search/hard/354.RussianDollEnvelopes.cpp)|
 
 ### [Bit-manipulation](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/bit-manipulation)
 
