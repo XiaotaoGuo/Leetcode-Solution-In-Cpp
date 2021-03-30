@@ -295,3 +295,10 @@
 |:---:|:---|:---:|:---:|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/union-find/hard)||
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|[Solution](https://xiaotaoguo.com/leetcode-1032)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/union-find/hard/1032.StreamOfCharacters.cpp)|
+
+### [Depth-first-search](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/depth-first-search)
+
+|#|Problems|Solution|Code|
+|:---:|:---|:---:|:---:|
+||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/depth-first-search/hard)||
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)|[Solution](https://xiaotaoguo.com/leetcode-329)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/depth-first-search/hard/329.LongestIncreasingPathInAMatrix.cpp)|
