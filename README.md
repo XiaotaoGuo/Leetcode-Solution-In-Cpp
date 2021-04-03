@@ -27,6 +27,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game) |[Solution](https://xiaotaoguo.com/leetcode-55)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/55.JumpGame.cpp)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |[Solution](https://xiaotaoguo.com/leetcode-59)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/59.SpiralMatrixIi.cpp)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |[Solution](https://xiaotaoguo.com/leetcode-73)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/73.SetMatrixZeroes.cpp)|
+|79|[Word Search](https://leetcode.com/problems/word-search) |[Solution](https://xiaotaoguo.com/leetcode-79)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/79.WordSearch.cpp)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Solution](https://xiaotaoguo.com/leetcode-442)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/442.FindAllDuplicatesInAnArray.cpp)|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|[Solution](https://xiaotaoguo.com/leetcode-987)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/array/medium/987.VerticalOrderTraversalOfABinaryTree.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/array/hard)||
