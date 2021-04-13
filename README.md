@@ -139,7 +139,8 @@
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination)|[Solution](https://xiaotaoguo.com/leetcode-1286)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/medium/1286.IteratorForCombination.cpp)|
 ||[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Solution](https://xiaotaoguo.com/leetcode-37)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/37.SudokuSolver.cpp)|
-|37|[N-Queens](https://leetcode.com/problems/n-queens)|[Solution](https://xiaotaoguo.com/leetcode-51)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/51.NQueens.cpp)|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|[Solution](https://xiaotaoguo.com/leetcode-51)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/51.NQueens.cpp)|
+|52|[N-Queens](https://leetcode.com/problems/n-queens-ii)|[Solution](https://xiaotaoguo.com/leetcode-52)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/52.NQueensIi.cpp)|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators)|[Solution](https://xiaotaoguo.com/leetcode-282)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/282.ExpressionAddOperators.cpp)|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](https://xiaotaoguo.com/leetcode-140)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/backtracking/hard/140.WordBreakIi.cpp)|
 
