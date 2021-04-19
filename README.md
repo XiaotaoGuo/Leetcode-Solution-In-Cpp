@@ -275,6 +275,7 @@
 ||[**Easy**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/stack/easy)||
 |20|[Valid Parentheses](https://leetcode.com/problems/min-stack)|[Solution](https://xiaotaoguo.com/leetcode-155)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/easy/155.MinStack.cpp)|
 |155|[Min Stack](https://leetcode.com/problems/valid-parentheses)|[Solution](https://xiaotaoguo.com/leetcode-20)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/easy/20.ValidParentheses.cpp)|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Solution](https://xiaotaoguo.com/leetcode-225)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/easy/225.ImplementStackUsingQueues.cpp)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Solution](https://xiaotaoguo.com/leetcode-232)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/easy/232.ImplementQueueUsingStacks.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/stack/medium)||
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[Solution](https://xiaotaoguo.com/leetcode-983)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/983.MinimumCostForTickets.cpp)|
