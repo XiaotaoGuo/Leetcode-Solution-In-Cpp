@@ -281,6 +281,7 @@
 |71|[Simplify Path](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Solution](https://leetcode.com/problems/simplify-path)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/71.SimplifyPath.cpp)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|[Solution](https://xiaotaoguo.com/leetcode-150)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/150.EvaluateReversePolishNotation.cpp)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path)|[Solution](https://xiaotaoguo.com/leetcode-388)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/388.LongestAbsoluteFilePath.cpp)|
+|394|[Decode String](https://leetcode.com/problems/decode-string)|[Solution](https://xiaotaoguo.com/leetcode-394)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/394.DecodeString.cpp)|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|[Solution](https://xiaotaoguo.com/leetcode-983)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/stack/medium/983.MinimumCostForTickets.cpp)|
 
 ### [Two-pointers](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/two-pointers)
