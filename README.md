@@ -339,3 +339,4 @@
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/heap/medium)||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Solution](https://xiaotaoguo.com/leetcode-215)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/heap/medium/215.KthLargestElementInAnArray.cpp)|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Solution](https://xiaotaoguo.com/leetcode-347)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/heap/medium/347.TopKFrequentElements.cpp)|
