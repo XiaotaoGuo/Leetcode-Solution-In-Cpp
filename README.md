@@ -237,6 +237,7 @@
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/design/medium)||
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)|[Solution](https://xiaotaoguo.com/leetcode-211)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/design/medium/211.AddAndSearchWordDataStructureDesign.cpp)|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|[Solution](https://xiaotaoguo.com/leetcode-341)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/design/medium/341.FlattenNestedListIterator.cpp)|
 
 ### [Greedy](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/greedy)
 
