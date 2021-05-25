@@ -346,3 +346,10 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[Solution](https://xiaotaoguo.com/leetcode-313)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/heap/medium/313.SuperUglyNumber.cpp)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Solution](https://xiaotaoguo.com/leetcode-347)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/heap/medium/347.TopKFrequentElements.cpp)|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|[Solution](https://xiaotaoguo.com/leetcode-373)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/heap/medium/373.FindKPairsWithSmallestSums.cpp)|
+
+### [Graph](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/graph)
+
+|#|Problems|Solution|Code|
+|:---:|:---|:---:|:---:|
+||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/graph/medium)||
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)|[Solution](https://xiaotaoguo.com/leetcode-332)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/graph/medium/332.ReconstructItinerary.cpp)|
