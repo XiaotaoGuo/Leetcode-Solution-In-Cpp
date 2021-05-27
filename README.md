@@ -233,6 +233,7 @@
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Solution](https://xiaotaoguo.com/leetcode-389)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/easy/389.FindTheDifference.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/bit-manipulation/medium)|||
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)|[Solution](https://xiaotaoguo.com/leetcode-318)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/medium/318.MaximumProductOfWordLengths.cpp)|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation)|[Solution](https://xiaotaoguo.com/leetcode-393)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/medium/318.MaximumProductOfWordLengths.cpp)|
 
 ### [Design](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/design)
 
