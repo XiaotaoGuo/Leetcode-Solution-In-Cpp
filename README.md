@@ -232,6 +232,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four)|[Solution](https://xiaotaoguo.com/leetcode-342)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/easy/342.PowerOfFour.cpp)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Solution](https://xiaotaoguo.com/leetcode-389)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/easy/389.FindTheDifference.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/bit-manipulation/medium)|||
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Solution](https://xiaotaoguo.com/leetcode-201)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/medium/201.BitwiseAndOfNumbersRange.cpp)|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)|[Solution](https://xiaotaoguo.com/leetcode-318)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/medium/318.MaximumProductOfWordLengths.cpp)|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation)|[Solution](https://xiaotaoguo.com/leetcode-393)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/bit-manipulation/medium/318.MaximumProductOfWordLengths.cpp)|
 
