@@ -367,3 +367,10 @@
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/topological-sort/medium/)||
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[Solution](https://xiaotaoguo.com/leetcode-207)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/topological-sort/medium/207.CourseSchedule.cpp)|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|[Solution](https://xiaotaoguo.com/leetcode-210)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/topological-sort/medium/207.CourseScheduleIi.cpp)|
+
+### [Random]](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling)
+
+|#|Problems|Solution|Code|
+|:---:|:---|:---:|:---:|
+||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling/medium/)||
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Solution](https://xiaotaoguo.com/leetcode-384)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling/medium/384.ShuffleAnArray.cpp)|
