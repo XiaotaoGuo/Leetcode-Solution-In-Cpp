@@ -374,3 +374,4 @@
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling/medium/)||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Solution](https://xiaotaoguo.com/leetcode-384)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling/medium/384.ShuffleAnArray.cpp)|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index)|[Solution](https://xiaotaoguo.com/leetcode-398)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling/medium/398.RandomPickIndex.cpp)|
