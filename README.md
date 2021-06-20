@@ -247,6 +247,7 @@
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/design/medium)||
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)|[Solution](https://xiaotaoguo.com/leetcode-211)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/design/medium/211.AddAndSearchWordDataStructureDesign.cpp)|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|[Solution](https://xiaotaoguo.com/leetcode-341)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/design/medium/341.FlattenNestedListIterator.cpp)|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Solution](https://xiaotaoguo.com/leetcode-380)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/design/medium/380.InsertDeleteGetRandomO1.cpp)|
 
 ### [Greedy](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/greedy)
 
