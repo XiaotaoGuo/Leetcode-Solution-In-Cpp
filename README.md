@@ -363,6 +363,7 @@
 |:---:|:---|:---:|:---:|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/graph/medium)||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph)|[Solution](https://xiaotaoguo.com/leetcode-133)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/graph/medium/133.CloneGraph.cpp)|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|[Solution](https://xiaotaoguo.com/leetcode-310)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/graph/medium/310.MinimumHeightTrees.cpp)|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)|[Solution](https://xiaotaoguo.com/leetcode-332)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/graph/medium/332.ReconstructItinerary.cpp)|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division)|[Solution](https://xiaotaoguo.com/leetcode-399)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/graph/medium/399.EvaluateDivision.cpp)|
 
