@@ -376,7 +376,7 @@
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[Solution](https://xiaotaoguo.com/p/leetcode-207)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/topological-sort/medium/207.CourseSchedule.cpp)|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|[Solution](https://xiaotaoguo.com/p/leetcode-210)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/topological-sort/medium/207.CourseScheduleIi.cpp)|
 
-### [Random]](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling)
+### [Random](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/reservoir-sampling)
 
 |#|Problems|Solution|Code|
 |:---:|:---|:---:|:---:|
