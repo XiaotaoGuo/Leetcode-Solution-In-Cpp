@@ -78,6 +78,7 @@
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)|[Solution](https://xiaotaoguo.com/p/leetcode-1103)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/easy/1103.DistributeCandiesToPeople.cpp)|
 ||[**Medium**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/medium)|||
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[Solution](https://xiaotaoguo.com/p/leetcode-12)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/medium/12.IntegerToRoman.cpp)|
+|315|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher)|[Solution](https://xiaotaoguo.com/p/leetcode-315)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/medium/319.BulbSwitcher.cpp)|
 |[**Hard**](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/tree/master/math/hard)|||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Solution](https://xiaotaoguo.com/p/leetcode-60)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/hard/60.PermutationSequence.cpp)|
 |65|[Valid Number](https://leetcode.com/problems/valid-number)|[Solution](https://xiaotaoguo.com/p/leetcode-65)|[code](https://github.com/XiaotaoGuo/Leetcode-Solution-In-Cpp/blob/master/math/hard/65.ValidNumber.cpp)|
